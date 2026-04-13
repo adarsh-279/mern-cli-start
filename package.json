@@ -1,0 +1,41 @@
+{
+  "name": "mern-start",
+  "version": "1.0.0",
+  "description": "CLI to generate production-ready MERN apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh-279/mern-start.git"
+  },
+  "keywords": [
+    "mern",
+    "cli",
+    "starter",
+    "boilerplate"
+  ],
+  "bin": {
+    "mern-start": "index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "templates",
+    "index.js",
+    "lib"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "preferGlobal": true,
+  "author": "Adarsh Shaw",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/adarsh-279/mern-start/issues"
+  },
+  "homepage": "https://github.com/adarsh-279/mern-start#readme"
+}
