@@ -1,5 +1,5 @@
 {
-  "name": "mern-start",
+  "name": "mern-cli-start",
   "version": "1.0.0",
   "description": "CLI to generate production-ready MERN apps",
   "main": "index.js",

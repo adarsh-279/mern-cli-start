@@ -1,6 +1,6 @@
-# 🚀 Mern-Start
+# 🚀 Mern-Cli-Start
 
-This project was generated using **mern-start** — a production-ready MERN stack starter.
+This project was generated using **mern-cli-start** — a production-ready MERN stack starter.
 
 ---
 
