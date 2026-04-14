@@ -4,6 +4,14 @@ CLI to generate production-ready MERN stack starter app.
 
 ---
 
+## Global Install
+
+```
+npm install -g mern-cli-start
+```
+
+---
+
 ## Start Command
 
 ```
@@ -89,8 +97,7 @@ Add reusable components : ``` frontend/src/components/ ```
 Create a .env file in backend/:
 ```
 PORT=8000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
+MONGODB_URL=your_mongodb_connection
 ```
 
 ---

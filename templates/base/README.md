@@ -81,8 +81,7 @@ Add reusable components : ``` frontend/src/components/ ```
 Create a .env file in backend/:
 ```
 PORT=8000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
+MONGODB_URL=your_mongodb_connection
 ```
 
 ---
@@ -110,3 +109,5 @@ Open issues, suggest features, or submit pull requests to make even better.
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+
+Repo link : ``` https://github.com/adarsh-279/mern-cli-start ```
